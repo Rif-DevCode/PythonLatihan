@@ -1,0 +1,2 @@
+# PythonLatihan
+Belajar Basic Python
